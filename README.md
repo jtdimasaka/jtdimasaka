@@ -1,5 +1,4 @@
-- 👋 Hello! I am Josh, a civil engineer from the Philippines. For the past six years, I have played different roles from managing national events and organizing non-profit outreach to designing buildings and applying AI for disaster resilience. I study how to design safe and resilient buildings (civil & structural engineering), how to reduce the risk of communities from natural disasters (AI, GIS & catastrophe modeling), and how to translate science and engineering into policies (econometrics & public policy).
-- 📖 Research Interests: Civil and Structural Engineering, Natural Hazards, Vulnerability, Climate Change, Disaster Risk Policy
+- 👋 Hey! I’m an Urban Resilience Research Fellow at EMI, working on the climate change and disaster risk management plan for densely populated cities. My research interests are probabilistic machine learning, graphical models, disaster risk assessment, Earth observation data, structural engineering, and public policy.
 - 📫 Contact: dimasakajoshua (at) gmail (dot) com
 
 <!---
